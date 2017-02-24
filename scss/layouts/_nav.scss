@@ -1,0 +1,12 @@
+.jobs-list{
+	list-style:none;
+	text-decoration:none;
+	padding:$padding;
+	text-align:$center;}
+	
+.jobs-list a{
+	color:$white;
+	font-size:1.5rem;}
+
+.jobs-list a:hover{
+	color:$black;}
